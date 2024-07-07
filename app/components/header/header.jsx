@@ -3,6 +3,8 @@ import Link from 'next/link';
 import styles from './header.module.css';
 
 export default function Header() {
+
+
     return(
         <header>
             <nav className={styles.nav}>
@@ -23,10 +25,20 @@ export default function Header() {
                     </Link>
                 </div>
                 <div className={styles.searchBar}>
-
+                <div className="SearchBar">
+                    <input 
+                        //onChange={e => setSearchTerm(e.target.value)}
+                        //onKeyPress={handleKeyPress}
+                        placeholder="Search"
+                        //value={searchTerm} 
+                    />
+                    <button 
+                        //onClick={handleSearch}
+                    >SEARCH</button>
+                </div>
                 </div>
                 <div className={styles.navRight}>
-
+                    <p>Anything here?</p>
                 </div>
             </nav>
         </header>

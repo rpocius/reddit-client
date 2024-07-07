@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Header />
       <main className={styles.main}>
-        <h1>Finally started doing this</h1>
+        <p>Rest of the page</p>
       </main>
     </>
   );

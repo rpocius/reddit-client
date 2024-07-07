@@ -1,15 +1,18 @@
-.navLeft {
-    display: inline-flex;
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.navLeft {
+    display: flex;
     align-content: center;
     align-self: center;
     justify-content: center;
 
 }
 
-.nav {
-
-}
 
 
 
