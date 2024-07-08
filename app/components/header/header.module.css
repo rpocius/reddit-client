@@ -10,7 +10,16 @@
     align-content: center;
     align-self: center;
     justify-content: center;
+}
 
+.navRight {
+    background-color: red;
+    border-radius: 50%;
+    width: 52px;
+    height: 52px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 52px;
 }
 
 

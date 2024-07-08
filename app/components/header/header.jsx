@@ -38,7 +38,7 @@ export default function Header() {
                 </div>
                 </div>
                 <div className={styles.navRight}>
-                    <p>Anything here?</p>
+                    <p>?</p>
                 </div>
             </nav>
         </header>
