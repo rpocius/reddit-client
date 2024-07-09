@@ -8,6 +8,9 @@ export default function Home() {
       <Header />
       <main className={styles.main}>
         <Card />
+        <Card />
+        <Card />
+        <Card />
         <p>Rest of the page</p>
       </main>
     </>
