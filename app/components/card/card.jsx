@@ -6,6 +6,7 @@ import PostHeader from '../post_header/post_header.jsx'
 export default function Card() {
     return(
         <div className={styles.card}>
+            <hr />
             <PostHeader />
             <div className={styles.post}>
                 <h2>Post Name</h2>
