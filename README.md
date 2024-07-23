@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Reddit Client
 
-## Getting Started
+This is a Next.js Reddit client project for Codecademy Full-Stack Engineer Career Path using the Reddit JSON API.
 
-First, run the development server:
+## Project Requirements:
+- Build the application using React and Redux
+- Version control your application with Git and host the repository on GitHub
+- Use a project management tool (GitHub Projects, Trello, etc.) to plan your work
+- Write a README (using Markdown) that documents your project
+- Write unit tests for your components using Jest and Enzyme
+- Write end-to-end tests for your application
+- Users can use the application on any device (desktop to mobile)
+- Users can use the application on any modern browser
+- Users can access your application at a URL
+- Users see an initial view of the data when first visiting the app
+- Users can search the data using terms
+- Users can filter the data based on categories that are predefined
+- Users are shown a detailed view (modal or new page/route) when they select an item
+- Users are delighted with a cohesive design system
+- Users are delighted with animations and transitions
+- Users are able to leave an error state
+- Get 90+ scores on Lighthouse
+- OPTIONAL: Get a custom domain name and use it for your application
+- OPTIONAL: Set up a CI/CD workflow to automatically deploy your application when the master branch in the repository changes
+- OPTIONAL: Make your application a progressive web app
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Prerequisites:
+- HTML
+- CSS
+- JavaScript
+- React
+- Redux
+- Jest and Selenium
+- Git and GitHub
+- Command line and file navigation
+- Wireframing
