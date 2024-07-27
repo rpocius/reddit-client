@@ -1,5 +1,7 @@
 # Reddit Client
 
+Work in progress.
+
 This is a Next.js Reddit client project for Codecademy Full-Stack Engineer Career Path using the Reddit JSON API.
 
 ## Project Requirements:
